@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1477101994 source:d:\users\capu\desktop\utn\2º cuatrimestre 2016\programacion i - laboratorio i\tp3\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1477103736 d:\users\capu\desktop\utn\2º cuatrimestre 2016\programacion i - laboratorio i\tp3\tp_3_cascara\tp_3_cascara\funciones.h
+
+1477102364 source:d:\users\capu\desktop\utn\2º cuatrimestre 2016\programacion i - laboratorio i\tp3\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1477170054 source:c:\users\capu\desktop\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1477170052 c:\users\capu\desktop\tp_3_cascara\tp_3_cascara\funciones.h
+
+1477540377 source:d:\users\capu\desktop\tp_3_cascara-20161023t013601z\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1477540613 d:\users\capu\desktop\tp_3_cascara-20161023t013601z\tp_3_cascara\tp_3_cascara\funciones.h
+	"validaciones.h"
+
+1477540613 source:d:\users\capu\desktop\tp_3_cascara-20161023t013601z\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+
+1477540328 d:\users\capu\desktop\tp_3_cascara-20161023t013601z\tp_3_cascara\tp_3_cascara\validaciones.h
+
+1477540328 source:d:\users\capu\desktop\tp_3_cascara-20161023t013601z\tp_3_cascara\tp_3_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+
